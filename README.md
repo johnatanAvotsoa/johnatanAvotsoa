@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Johnatan+Avotsoa;AI&+%26+Software+engineering+Student;Machine+Learning+Enthusiast;Currently+looking+for+an+internship+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Johnatan+Avotsoa;AI+%26+Software+Engineering+Student;Machine+Learning+Enthusiast;Future+Data+Scientist;Currently+looking+for+an+internship+🚀" />
 </p>
 
 
@@ -67,17 +67,9 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/johnatanAvotsoa/johnatanAvotsoa/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
-
 ## 💬 Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Artificial+intelligence+is+the+new+electricity.;–+Andrew+Ng" />
 </p>
 
 ---
