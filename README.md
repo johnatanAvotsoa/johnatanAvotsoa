@@ -46,19 +46,6 @@
 
 ---
 
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanAvotsoa&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnatanAvotsoa&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 ## 🔥 Contribution Graph
 <p align="center">
