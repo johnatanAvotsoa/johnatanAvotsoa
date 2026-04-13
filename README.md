@@ -5,9 +5,8 @@
 
 ## 🌟 About Me
 🎓 Student in **Software & Artificial Intelligence**  
-🤖 Passionate about **Data Science | Machine Learning | AI**  
-🌱 Currently learning **MLOps & Deep Learning**  
-💼 Actively looking for a **Data Science / ML Internship**  
+🤖 Passionate about **Data Science | Machine Learning | AI to solve real world challenges**  
+🌱 Currently learning **DATA SCIENTIST INTERN AT THE COMMUNICATION TECHNOLOGY REGULATION AUTHORITY AND AFRICAN CENTER FOR ARTIFICIAL INTELLIGENCE**  
 
 ---
 
@@ -31,10 +30,10 @@
 ---
 
 ## 🚀 Featured Projects
-**Employee Attrition Prediction: ML model that predicts employee turnover to support data-driven HR retention strategies.**
-**Credit Card Fraud Detection: Imbalanced classification pipeline using SMOTE and recall-focused metrics to detect fraudulent transactions**.
-**Neural Network From Scratch: End-to-end neural network built with NumPy to master forward/backpropagation and deep learning fundamentals**.
-**Beyond Classic Data Cleaning: Advanced preprocessing techniques for building robust, leakage-free, production-ready ML pipelines**
+**Employee Attrition Prediction: ML model that predicts employee turnover to support data-driven HR retention strategies.\n**
+**Credit Card Fraud Detection: Imbalanced classification pipeline using SMOTE and recall-focused metrics to detect fraudulent transactions\n**.
+**Neural Network From Scratch: End-to-end neural network built with NumPy to master forward/backpropagation and deep learning fundamentals\n**.
+**Beyond Classic Data Cleaning: Advanced preprocessing techniques for building robust, leakage-free, production-ready ML pipelines\n**
 
 ---
 
@@ -42,21 +41,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnatanAvotsoa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnatanAvotsoa&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnatanAvotsoa&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 💬 Quote
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Artificial+intelligence+is+the+new+electricity.;–+Andrew+Ng" />
 </p>
 
 ---
