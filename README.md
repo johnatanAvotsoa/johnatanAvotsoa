@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Johnatan+Avotsoa;AI+%26+Software+Engineering+Student;Machine+Learning+Enthusiast;Future+Data+Scientist;Currently+looking+for+an+internship+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Johnatan+Avotsoa;AI+%26+Software+Engineering+Student;Machine+Learning;Data+Scientist" />
 </p>
 
 
@@ -31,7 +31,7 @@
 
 ## 🚀 Featured Projects
 
-**QoS Monitoring System:** A full-stack web app that analyzes radio signal quality using ML clustering (KMeans), visualizes results on interactive maps, and processes GMON log files. Built with FastAPI, React, MySQL, and scikit-learn.
+**QoS Monitoring System:** A full-stack web app that analyzes radio signal quality using ML clustering (KMeans), visualizes results on interactive maps, and processes log files. Built with FastAPI, React, MySQL, and scikit-learn.
 
 **Employee Attrition Prediction:** ML model that predicts employee turnover to support data-driven HR retention strategies.
 
