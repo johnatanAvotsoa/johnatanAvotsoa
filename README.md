@@ -6,7 +6,7 @@
 ## 🌟 About Me
 🎓 Student in **Software & Artificial Intelligence**  
 🤖 Passionate about **Data Science | Machine Learning | AI to solve real world challenges**  
-🌱 Currently learning **DATA SCIENTIST INTERN AT THE COMMUNICATION TECHNOLOGY REGULATION AUTHORITY AND AFRICAN CENTER FOR ARTIFICIAL INTELLIGENCE**  
+🌱 Currently **A DATA SCIENTIST INTERN AT THE COMMUNICATION TECHNOLOGY REGULATION AUTHORITY AND AFRICAN CENTER FOR ARTIFICIAL INTELLIGENCE AND ENROLLED AT MATSUO-IWASAWA LAB GCI 2026**  
 
 ---
 
@@ -30,10 +30,16 @@
 ---
 
 ## 🚀 Featured Projects
-**Employee Attrition Prediction: ML model that predicts employee turnover to support data-driven HR retention strategies.\n**
-**Credit Card Fraud Detection: Imbalanced classification pipeline using SMOTE and recall-focused metrics to detect fraudulent transactions\n**.
-**Neural Network From Scratch: End-to-end neural network built with NumPy to master forward/backpropagation and deep learning fundamentals\n**.
-**Beyond Classic Data Cleaning: Advanced preprocessing techniques for building robust, leakage-free, production-ready ML pipelines\n**
+
+**QoS Monitoring System:** A full-stack web app that analyzes radio signal quality using ML clustering (KMeans), visualizes results on interactive maps, and processes GMON log files. Built with FastAPI, React, MySQL, and scikit-learn.
+
+**Employee Attrition Prediction:** ML model that predicts employee turnover to support data-driven HR retention strategies.
+
+**Credit Card Fraud Detection:** Imbalanced classification pipeline using SMOTE and recall-focused metrics to detect fraudulent transactions.
+
+**Neural Network From Scratch:** End-to-end neural network built with NumPy to master forward/backpropagation and deep learning fundamentals.
+
+**Beyond Classic Data Cleaning:** Advanced preprocessing techniques for building robust, leakage-free, production-ready ML pipelines.
 
 ---
 
@@ -41,6 +47,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnatanAvotsoa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnatanAvotsoa&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanAvotsoa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </p>
 
 ---
