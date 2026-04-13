@@ -44,13 +44,14 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnatanAvotsoa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnatanAvotsoa&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanAvotsoa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanAvotsoa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
 </p>
 
 ---
