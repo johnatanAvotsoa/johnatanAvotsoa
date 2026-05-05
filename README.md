@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Johnatan&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20·%20AI%20Engineer%20·%20Builder&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=JohnatanAvotsoa&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20·%20AI%20Engineer%20·&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%A7%A0;Building+AI+systems+that+matter+%F0%9F%9A%80;3rd+Year+AI+%26+Software+Engineering+Student;Data+Science+Intern+%40+ARTEC+Madagascar;AI+Engineer+%40+African+Center+for+Artificial+intelligence;GCI+2026+%E2%80%94+Matsuo-Iwasawa+Lab%2C+Tokyo" alt="Typing SVG" /></a>
