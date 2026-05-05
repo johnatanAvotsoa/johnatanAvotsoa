@@ -30,9 +30,8 @@
 </div>
 
 ```python
-class Jonathan:
+class Me :
     def __init__(self):
-        self.name         = "Jonathan"
         self.role         = ["Data Scientist", "AI Engineer", "Software Engineering Student"]
         self.education    = "3rd Year — Software & AI Engineering"
         self.os           = "Linux 🐧"
